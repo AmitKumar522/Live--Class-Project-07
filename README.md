@@ -10,7 +10,7 @@ By Amit Kumar
 - It helps me to build confidence.
 - Thanks to (HITESH SIR), who gave me this project.
 
-[Live link for the project-07]()
+[Live link for the project-07](https://live-class-project-07.netlify.app)
 #### Honest time to finish this project;
 - It almost take's one day to understand and build this beautiful landing page.
  ## Screenshots
@@ -28,7 +28,7 @@ By Amit Kumar
 
 
 
-![Badge](https://img.shields.io/badge/Project--07-orange)
+![Badge](https://img.shields.io/badge/Project-07-orange)
 
 
 
